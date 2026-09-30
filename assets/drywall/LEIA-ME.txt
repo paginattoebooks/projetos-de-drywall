@@ -1,0 +1,9 @@
+Imagens esperadas pela página (formato .webp). Enquanto não existirem, a página mostra uma ilustração técnica no lugar.
+
+hero.webp            ~1120x952  (proporção 4:3.4)  - imagem principal (também usada no Open Graph/WhatsApp)
+projeto-01.webp      ~960x720   (4:3)  - ANTES
+projeto-02.webp      ~960x720   (4:3)  - ESTRUTURA (perfis metálicos / placas)
+projeto-03.webp      ~960x720   (4:3)  - PROJETO FINAL
+bonus-01.webp        ~1112x626  (16:9) - capa do Guia de Materiais
+bonus-02.webp        ~1112x626  (16:9) - capa do Checklist de Planejamento
+depoimento-01..06.webp  (4:5, retrato) - prints REAIS de clientes
